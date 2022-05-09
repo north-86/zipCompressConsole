@@ -27,3 +27,4 @@ switch (choice)
     default:
         break;
 }
+ReadKey();
